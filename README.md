@@ -1,5 +1,5 @@
 # DNAtranslate
-A program to write some nonsense text based on a input text. This is done with the use of Markov Chains.
+DNAtranslate uses an input DNA sequence to generate the complement sequence, and from both the forward and complement sequences translate the RNA and protein sequences.
 
 The program uses the module sys and the third-party module wx-python 4.0 (Phoenix) WxPython
 
