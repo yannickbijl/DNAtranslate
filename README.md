@@ -1,7 +1,7 @@
 # DNAtranslate
 A program to write some nonsense text based on a input text. This is done with the use of Markov Chains.
 
-The program uses the modules sys, math, re and the third-party module wx-python 4.0 (Phoenix) WxPython
+The program uses the module sys and the third-party module wx-python 4.0 (Phoenix) WxPython
 
 The executable was made using pyinstaller on Windows 10 Home-edition 64-bit.
 
